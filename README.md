@@ -308,25 +308,6 @@ This project shows how 🐬 **SQL**, 📗 **Excel**, and 📊 **Power BI** work 
 ---
 
 ## 👩‍💻💖 Author
-Avantika Rankhambe
-
-🔗 LinkedIn: Avantika Rankhambe
-🐙 GitHub: rankhambeavantika-source
-📧 Email: rankhambeavantika@gmail.com
-
-⭐ If you found this project useful, feel free to star the repository! ⭐
-
-
-
-
-
-
-
-
-
-
-
-
 
 **Avantika Rankhambe** 🌟
 
